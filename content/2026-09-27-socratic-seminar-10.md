@@ -16,7 +16,7 @@ Alche Pamplemousses, Mauritius | [Map](https://maps.app.goo.gl/uHCXHnp2YeZ315Af7
 
 ## Announcements
 
-Join us for our Tenth Bitcoin [Socratic Seminar](http://127.0.0.1:1111/about)! A special thank you to our sponsor [Btrust](http://btrust.tech/).
+Join us for our Tenth Bitcoin [Socratic Seminar](/about)! A special thank you to our sponsor [Btrust](http://btrust.tech/).
 
 This session will feature a deep dive into **Client-Side Ecash & Lightning SDK Architecture**, reviewing real-world code review discussions from the [`fedimint/fedimint-sdk` PR #401](https://github.com/fedimint/fedimint-sdk/pull/401).
 
@@ -25,7 +25,7 @@ This session will feature a deep dive into **Client-Side Ecash & Lightning SDK A
 - We prefer no photos and no videos during the event
 - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - Leave the meeting space as clean as you found it
-- Suggest topics for the next Socratic Seminar! [Where to find topics?](http://127.0.0.1:1111/about/find-topics)
+- Suggest topics for the next Socratic Seminar! [Where to find topics?](/about/find-topics)
 
 # Topics
 
